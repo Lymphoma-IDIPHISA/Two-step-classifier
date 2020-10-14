@@ -4,7 +4,7 @@ We developed a simplified genetic classification based on those proposed by Schm
 ## Usage
 This script is made for running in R with a mutational table as the example.txt file. 
 
-The columns and the rows represent the genes and the samples, respectively.
+The columns and rows represent genes and samples, respectively.
 1 indicates mutated or translocated gene in the sample and 0 indicates non-mutated or non-translocated gene.
 
 ## References
