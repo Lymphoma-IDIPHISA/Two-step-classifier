@@ -83,3 +83,5 @@ for (l in 1:nrow(MD)) {
   y = which(p == 2)
   if (length(y) == 1 && is.na(MD$Subtype[l]) == T && length(y) != 2 && length(x) != 2) {MD$Subtype[l] = subtypes[y]}
 }
+
+write.table(MD, "output.subtypes.file", row.names = F, sep = "\t")
