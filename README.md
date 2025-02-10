@@ -10,8 +10,8 @@ The columns and rows represent genes and samples, respectively.
 1 indicates mutated or translocated gene in the sample and 0 indicates non-mutated or non-translocated gene.
 
 ## References
-- Pedrosa, L. et al. Proposal and validation of a method to classify genetic subtypes of diffuse large B cell lymphoma. Sci. Rep. 11, 1886 (2021)
-- Schmitz, R. et al. Genetics and Pathogenesis of Diffuse Large B-Cell Lymphoma. N. Engl. J. Med. 378, 1396–1407 (2018).
+- Pedrosa, L. et al. Proposal and validation of a method to classify genetic subtypes of diffuse large B cell lymphoma. *Sci. Rep.* 11, 1886 (2021)
+- Schmitz, R. et al. Genetics and Pathogenesis of Diffuse Large B-Cell Lymphoma. *N. Engl. J. Med.* 378, 1396–1407 (2018).
 - Wright, G. W. et al. A Probabilistic Classification Tool for Genetic Subtypes of Diffuse Large B Cell Lymphoma with Therapeutic Implications. *Cancer Cell* 37, 551-568.e14 (2020).
 - Chapuy, B. et al. Molecular subtypes of diffuse large B cell lymphoma are associated with distinct pathogenic mechanisms and outcomes. *Nat. Med*. 24, 679–690 (2018).
 - Lacy, S. E. et al. Targeted sequencing in DLBCL, molecular subtypes, and outcomes: a Haematological Malignancy Research Network report. *Blood* 135, 1759–1771 (2020).
